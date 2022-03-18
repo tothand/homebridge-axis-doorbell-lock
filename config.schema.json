@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "homebridge-axis-door-station-unlock",
   "pluginType": "platform",
   "singular": true,
   "schema": {
